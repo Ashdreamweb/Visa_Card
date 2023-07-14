@@ -1,0 +1,136 @@
+
+.topbar{
+    background-color: #1f1f1f;
+    height: 20px;
+    width: 100%;
+}
+body{
+    background-color: white;
+}
+.container{
+    width: 70%;
+    margin: 0px auto;
+}
+.header{
+    height: 80px;
+    background-color:#efefef;
+}
+.header img{
+    height: 80px;
+}
+.header ul{
+    float: right;
+    margin-top: 25px;
+}
+.header ul li{
+    display: inline;
+    margin-right: 25px;
+}
+.header ul li a{
+    color: #030000;
+    text-decoration: none;
+    font-size: 18px;
+}
+.banner img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.conten01{
+    width: 32%;
+    height: 350px;
+    background-color: #f86900;
+    float: left;
+    margin-right: 2%;
+    padding-bottom: 20px;
+}
+.conten02{
+    width: 32%;
+    height: 350px;
+    background-color: #ffc502;
+    float: left;
+    padding-bottom: 20px;
+}
+.conten03{
+    width: 32%;
+    height: 350px;
+    background-color: #a2c511;
+    float: right;
+    padding-bottom: 20px;
+}
+#heading{
+    color: #efefef;
+    margin-left: 20px;
+    font-size: 28px;
+}
+#para{
+    color: #efefef;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#more{
+    text-decoration: none;
+    color: black;
+    background-color: #efefef;
+    padding: 5px;
+    margin-left: 20px;
+    
+}
+.bottem1{
+    margin-top: 15px;
+    width: 60%;
+    float: left;
+    margin-bottom:  15px;
+}
+.bottem2{
+    margin-top: 15px;
+    width: 40%;
+    float: right;
+    margin-bottom:  15px;
+}
+.bottem1 h2{
+    color: #030000;
+    margin-left: 20px;
+}
+.bottem1 p{
+    color: #030000;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.bottem1 a{
+    margin-left: 20px;
+    color: orange;
+}
+.bottem2 h2{
+    color: #030000;
+    margin-left: 20px;
+}
+.bottem2 a{
+    margin-left: 20px;
+    color: orange;
+}
+.footer{
+    background-color: #1f1f1f;
+    height: 80px;
+    width: 100%;
+    clear: both;
+}
+.footer ul{
+    float: left;
+    margin-top: 30px;
+}
+.footer ul li{
+    display: inline;
+    margin-right: 25px;
+}
+.footer ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.footer p{
+    color: white;
+    float: right;
+    margin-right: 20px;
+    font-size: 18px;
+    margin-top: 30px;
+}
